@@ -1,0 +1,39 @@
+div {
+    color: green;
+    background-color: black;
+    width: 200px;
+    font-size: 36px;
+}
+
+h1, h2, h3, h4 {
+    color: white;
+    background-color: orange;
+    font-size: 30px;
+    width: 200px;
+
+}
+
+ul {
+    color: black;
+    background-color: gray;
+    width: 350px;
+    font-size: 24px;
+}
+
+a {
+    color: yellow;
+    background-color: black;
+    font-size: 36px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+ol {
+    color: black;
+    background-color: gray;
+    width: 350px;
+    font-size: 24px;
+}
